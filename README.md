@@ -7,3 +7,8 @@
 
 ### TODOs
 - [ ] OpenVAF
+- [ ] add Z3
+
+### Instances
+- [ ] Load line (diode)
+- [ ] 
